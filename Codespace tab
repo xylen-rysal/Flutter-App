@@ -1,0 +1,3 @@
+git clone https://github.com/flutter/flutter.git -b stable
+export PATH="$PATH:$PWD/flutter/bin"
+flutter doctor
